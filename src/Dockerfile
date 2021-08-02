@@ -14,7 +14,7 @@ ADD 'https://drive.google.com/uc?export=download&id=1PV0MXSzcmla0rsF0rvKLP6f23j_
 # End section
 
 # Unzip archives
-RUN powershell -command Expand-Archive -Path C:\composer.zip -DestinationPath C:\composer
+RUN powershell -command Expand-Archive -Path C:\composer.zip -DestinationPath C:\
 RUN powershell -Command Expand-Archive -Path C:\php.zip -DestinationPath C:\\ -Force
 RUN powershell -Command Expand-Archive -Path C:\modules-iis.zip -DestinationPath C:\modules-iis
 
