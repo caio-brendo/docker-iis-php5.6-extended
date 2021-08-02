@@ -8,7 +8,7 @@ MAINTAINER caioaraujo.immv@gmail.com
 # Download section
 ADD https://github.com/git-for-windows/git/releases/download/v2.31.1.windows.1/Git-2.31.1-64-bit.exe Git-2.31.1-64-bit.exe
 ADD 'https://drive.google.com/uc?export=download&id=1JBDL28Y7N-CvRMZyewGjf5aS5FcqPCsf' composer.zip
-ADD 'https://drive.google.com/uc?export=download&id=10482rur9uH85cLmZ0L2hApnq-jkDPucD' php.zip
+ADD 'https://drive.google.com/uc?export=download&id=1GlWRLysMxCqgKUFLZuqozjx2a43ZElJX' php.zip
 ADD 'https://drive.google.com/uc?export=download&id=1vVzxtbtAVGRge9gm4fVdWfbSdSevjk3p' modules-iis.zip
 ADD 'https://drive.google.com/uc?export=download&id=1PV0MXSzcmla0rsF0rvKLP6f23j_AlBIL' applicationhost.zip
 # End section
